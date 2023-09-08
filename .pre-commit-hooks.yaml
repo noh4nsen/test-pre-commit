@@ -1,0 +1,4 @@
+- id: test-pre-commit
+  name: test pre commit
+  entry: main.go
+  language: golang
