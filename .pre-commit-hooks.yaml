@@ -1,4 +1,5 @@
 - id: test-pre-commit
   name: test pre commit
-  entry: test-pre-commit
-  language: golang
+  entry: ./main.go
+  language: system
+  types: [go]
