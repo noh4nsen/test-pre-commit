@@ -2,4 +2,3 @@
   name: test pre commit
   entry: test-pre-commit
   language: golang
-  files: main.go
